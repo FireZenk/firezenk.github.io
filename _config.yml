@@ -1,9 +1,3 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink: /:title/
 #
 # This file contains configuration flags to customize your site
 #
